@@ -18,10 +18,15 @@ A scientist who has developed the plasmids, which are biological constructs, has
 Input spreadsheet sample data
 
 plasmid name                                         recipient name               university name                date 
+
 -------------------------------------------------------------------------------------------------------------------------
+
 Construct 32 - NFKBRp_mKate2_...............         A****** D******              Duke University          Dec. 25, 2020
+
 Construct 32 - NFKBRp_mKate2_...............         S****** M******              Tufts University         Dec. 25, 2020
+
 Construct 32 - NFKBRp_mKate2_...............         M****** T******              Tufts University         Dec. 25, 2020
+
 .
 .
 .
