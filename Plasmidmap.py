@@ -8,8 +8,7 @@ class Plasmidmap:
         self.api_key = api_key
 
     def get_location(self):
-        latitudes = []
-        longitudes = []
+        latitudes = [], longitudes = []
         # For each address in data frame get latitude and longitude
         for elm in self.my_dataframe['Address']:
             geocode_url = "https://maps.googleapis.com/maps/api/geocode/json?address={}".format(elm) + "&key={}".format(

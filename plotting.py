@@ -23,7 +23,6 @@ AS_LAT_LOW = 5.496438
 AS_LON_HIGH = 95.789622
 AS_LON_LOW = 148.348211
 
-
 # Get api-key
 api_file = open("api-key.txt", "r")
 api_key = api_file.read()
